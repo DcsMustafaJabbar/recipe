@@ -14,6 +14,7 @@ export class ShoppingListComponent implements OnInit {
     new Ingredient('Onions',3),
     new Ingredient('garlic',1),
     new Ingredient('paprka',4),
+    new Ingredient('lemon',7),
   ];
   constructor() { }
 
