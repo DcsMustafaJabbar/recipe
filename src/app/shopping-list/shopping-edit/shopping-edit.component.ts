@@ -7,7 +7,7 @@ import {
   Output
 } from '@angular/core';
 
-import { Ingredient } from '../../shared/ingredient.model';
+import { Ingredient } from '../../shared/Ingredient.model';
 
 @Component({
   selector: 'app-shopping-edit',
